@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/marseam/still-delivering/static/js/main.70c5754a.chunk.js",
-    "main.js.map": "/marseam/still-delivering/static/js/main.70c5754a.chunk.js.map",
-    "runtime-main.js": "/marseam/still-delivering/static/js/runtime-main.4604c802.js",
-    "runtime-main.js.map": "/marseam/still-delivering/static/js/runtime-main.4604c802.js.map",
-    "static/css/2.1c5b230e.chunk.css": "/marseam/still-delivering/static/css/2.1c5b230e.chunk.css",
-    "static/js/2.2c27a572.chunk.js": "/marseam/still-delivering/static/js/2.2c27a572.chunk.js",
-    "static/js/2.2c27a572.chunk.js.map": "/marseam/still-delivering/static/js/2.2c27a572.chunk.js.map",
-    "index.html": "/marseam/still-delivering/index.html",
-    "precache-manifest.69c707233ea6a7a3a717d1ba3c521bb6.js": "/marseam/still-delivering/precache-manifest.69c707233ea6a7a3a717d1ba3c521bb6.js",
-    "service-worker.js": "/marseam/still-delivering/service-worker.js",
-    "static/css/2.1c5b230e.chunk.css.map": "/marseam/still-delivering/static/css/2.1c5b230e.chunk.css.map",
-    "static/js/2.2c27a572.chunk.js.LICENSE.txt": "/marseam/still-delivering/static/js/2.2c27a572.chunk.js.LICENSE.txt"
+    "main.js": "/still-delivering/static/js/main.70c5754a.chunk.js",
+    "main.js.map": "/still-delivering/static/js/main.70c5754a.chunk.js.map",
+    "runtime-main.js": "/still-delivering/static/js/runtime-main.a9998438.js",
+    "runtime-main.js.map": "/still-delivering/static/js/runtime-main.a9998438.js.map",
+    "static/css/2.1c5b230e.chunk.css": "/still-delivering/static/css/2.1c5b230e.chunk.css",
+    "static/js/2.cc2d03d2.chunk.js": "/still-delivering/static/js/2.cc2d03d2.chunk.js",
+    "static/js/2.cc2d03d2.chunk.js.map": "/still-delivering/static/js/2.cc2d03d2.chunk.js.map",
+    "index.html": "/still-delivering/index.html",
+    "precache-manifest.76e45603f5873cd327a0c50356a11d57.js": "/still-delivering/precache-manifest.76e45603f5873cd327a0c50356a11d57.js",
+    "service-worker.js": "/still-delivering/service-worker.js",
+    "static/css/2.1c5b230e.chunk.css.map": "/still-delivering/static/css/2.1c5b230e.chunk.css.map",
+    "static/js/2.cc2d03d2.chunk.js.LICENSE.txt": "/still-delivering/static/js/2.cc2d03d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4604c802.js",
+    "static/js/runtime-main.a9998438.js",
     "static/css/2.1c5b230e.chunk.css",
-    "static/js/2.2c27a572.chunk.js",
+    "static/js/2.cc2d03d2.chunk.js",
     "static/js/main.70c5754a.chunk.js"
   ]
 }
