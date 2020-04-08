@@ -1,26 +1,32 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import {Card, DataTable, Page} from '@shopify/polaris';
 
-function App() {
+export default function DataTableExample() {
+  const rows = [
+    ['Catering by Anna Hasiuk', 'Premade Food', 'Belfast','https://www.facebook.com/cateringannahasiuk/'],
+    ['Jackson Greens', 'Fruit & Veg', 'Belfast', 'https://www.jacksongreensonline.co.uk/'],
+  ];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Page title="Support Small Buisnesses Still Delivering NI">
+      <Card>
+        <DataTable
+          columnContentTypes={[
+            'text',
+            'text',
+            'text',
+            'text',
+            'text',
+          ]}
+          headings={[
+            'Name',
+            'Type',
+            'Delivering to',
+            'Contact'
+          ]}
+          rows={rows}
+        />
+      </Card>
+    </Page>
   );
 }
-
-export default App;
