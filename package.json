@@ -2,7 +2,7 @@
   "name": "delivering-ni",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/marseam/still-delivering",
+  "homepage": "https://marseam.github.io/still-delivering/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
